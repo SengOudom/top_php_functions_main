@@ -1,4 +1,4 @@
-<!-- array_filter — Filters elements of an array using a callback function -->
+array_filter — Filters elements of an array using a callback function
 <?php
 echo "<pre>";
 // array_filter

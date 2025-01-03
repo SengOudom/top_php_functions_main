@@ -1,4 +1,5 @@
 <?php
+echo '<pre>';
 // end
 $numbers = [
     1,

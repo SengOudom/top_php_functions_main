@@ -1,4 +1,6 @@
+is_object — Finds whether a variable is an object
 <?php
+echo '<pre>';
 $obj = new stdClass();
 $obj->{"123"} = "000";
 $obj->a = "a";

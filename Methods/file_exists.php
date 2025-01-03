@@ -1,4 +1,6 @@
+file_exists — Checks whether a file or directory exists
 <?php
+echo '<pre>';
 var_dump( file_exists('..\..\..\hi.txt') );
 var_dump( file_exists("file_exists.php") );
 var_dump( file_exists("test.php") );
@@ -37,7 +39,7 @@ var_dump("$age");
 var_dump('\\');
 var_dump('\\\\');
 
-var_dump('c:\test\file.txt');
+var_dump('../file.txt');
 // Error: var_dump('c:\');
 var_dump('c:\\');
 

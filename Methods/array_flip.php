@@ -1,4 +1,4 @@
-<!--array_flip — Exchanges all keys with their associated values in an array -->
+array_flip — Exchanges all keys with their associated values in an array
 <?php
 echo "<pre>";
 // array_flip

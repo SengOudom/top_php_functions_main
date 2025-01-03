@@ -1,4 +1,4 @@
-<!-- array_shift — Shift an element off the beginning of array -->
+array_shift — Shift an element off the beginning of array
 <?php
 echo '<pre>';
 // array_shift

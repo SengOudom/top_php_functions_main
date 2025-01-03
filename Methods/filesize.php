@@ -1,3 +1,4 @@
+filesize — Gets file size
 <?php
 // filesize
 $filename = "file_get_contents.php";

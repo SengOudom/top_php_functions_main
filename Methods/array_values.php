@@ -1,4 +1,4 @@
-<!-- array_values — Return all the values of an array -->
+array_values — Return all the values of an array
 <?php
 echo '<pre>';
 // array_values

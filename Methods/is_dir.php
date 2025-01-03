@@ -1,4 +1,6 @@
+is_dir — Tells whether the filename is a directory
 <?php
+echo '<pre>';
 // is_dir
 if (is_dir("/tmp")) {
     echo "/tmp is a directory\n";

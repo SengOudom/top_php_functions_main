@@ -1,4 +1,6 @@
+dirname — Returns a parent directory's path
 <?php
+echo '<pre>';
 var_dump(dirname("c:\\path\\to\\file.txt"));
 var_dump(dirname("file.txt"));
 var_dump(dirname("../file.txt"));

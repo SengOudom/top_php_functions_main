@@ -1,4 +1,4 @@
-<!--array_reverse — Return an array with elements in reverse order -->
+array_reverse — Return an array with elements in reverse order
 <?php
 // array_reverse
 echo '<pre>';

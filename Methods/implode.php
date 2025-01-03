@@ -1,4 +1,6 @@
+implode — Join array elements with a string
 <?php
+echo '<pre>';
 var_dump(
     implode("\n", [
         "a",

@@ -1,3 +1,4 @@
+is_int — Find whether the type of a variable is integer
 <?php
 // is_int
 $int = 1;

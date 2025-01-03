@@ -1,4 +1,4 @@
-<!-- array_push — Push one or more elements onto the end of array -->
+array_push — Push one or more elements onto the end of array
 <?php
 echo '<pre>';
 // array_push

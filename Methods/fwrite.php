@@ -1,3 +1,4 @@
+fwrite — Binary-safe file write
 <?php
 // fwrite
 $f = fopen("file.txt", "w"); // write

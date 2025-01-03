@@ -1,3 +1,4 @@
+is_bool — Finds out whether a variable is a boolean
 <?php
 // is_bool
 $var = true;

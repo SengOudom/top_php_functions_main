@@ -1,4 +1,6 @@
+call_user_func — Call the callback given by the first parameter
 <?php
+echo '<pre>';
 // call_user_func
 function my_function() {
     echo "Hello World!";

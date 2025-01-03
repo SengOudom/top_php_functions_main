@@ -1,3 +1,4 @@
+in_array — Checks if a value exists in an array
 <?php
 // in_array
 $list = [

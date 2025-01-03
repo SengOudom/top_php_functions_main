@@ -1,3 +1,4 @@
+call_user_func_array — Call a callback with an array of parameters
 <?php
 // call_user_func_array
 function my_function($a, $b) {

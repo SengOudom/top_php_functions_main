@@ -1,4 +1,5 @@
 <?php
+echo '<pre>';
 // function
 function my_function() {
     echo "Hello World!";
@@ -16,7 +17,7 @@ $sum = function($a, $b) {
 };
 echo $sum(1, 2);
 
-echo "===================\n";
+echo "\n===================\n";
 
 function my($number1, $number2, $fn) {
     $result = $fn($number1, $number2);

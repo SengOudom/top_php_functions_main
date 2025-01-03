@@ -1,4 +1,6 @@
+current — Return the current element in an array
 <?php
+echo '<pre>';
 // current
 $numbers = [
     1,
@@ -15,5 +17,5 @@ $numbers = [
 
 var_dump($numbers[0]);
 
-var_dump(current($numbers));
+print_r(current($numbers));
 

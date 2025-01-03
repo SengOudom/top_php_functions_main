@@ -1,3 +1,4 @@
+is_null — Finds whether a variable is null
 <?php
 // is_null
 

@@ -1,4 +1,4 @@
-<!-- array_map — Applies the callback to the elements of the given arrays -->
+array_map — Applies the callback to the elements of the given arrays
 <?php
 echo '<pre>';
 // array_map

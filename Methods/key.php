@@ -1,3 +1,4 @@
+key — Fetch a key from an array
 <?php
 // key
 $array = [

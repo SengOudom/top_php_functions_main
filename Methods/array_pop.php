@@ -1,4 +1,4 @@
-<!-- array_pop — Pop the element off the end of array -->
+array_pop — Pop the element off the end of array
 <?php
 echo '<pre>';
 // array_pop

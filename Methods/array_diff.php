@@ -1,4 +1,4 @@
-<!-- array_diff — Computes the difference of arrays -->
+array_diff — Computes the difference of arrays
 <?php
 // array_diff
 echo "<pre>";

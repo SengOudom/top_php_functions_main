@@ -1,4 +1,6 @@
+file_get_contents — Reads entire file into a string
 <?php
+echo '<pre>';
 // file_get_contents
 $data = file_get_contents("array_keys.php");
 print $data;

@@ -1,4 +1,4 @@
-<!-- array_slice — Extract a slice of the array -->
+array_slice — Extract a slice of the array
 <?php
 // array_slice
 echo '<pre>';

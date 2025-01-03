@@ -1,4 +1,4 @@
-<!-- array_key_exists — Checks if the given key or index exists in the array -->
+array_key_exists — Checks if the given key or index exists in the array
 <?php
 echo '<pre>';
 // array_key_exists

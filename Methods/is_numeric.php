@@ -1,3 +1,4 @@
+is_numeric — Finds whether a variable is a number or a numeric string
 <?php
 // is_numeric
 $int = 1;

@@ -1,4 +1,4 @@
-<!-- array_merge — Merge one or more arrays -->
+array_merge — Merge one or more arrays
 <?php
 echo '<pre>';
 // array_merge

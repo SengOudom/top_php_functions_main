@@ -1,3 +1,4 @@
+is_readable — Tells whether a file exists and is readable
 <?php
 // is_readable
 

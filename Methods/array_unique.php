@@ -1,4 +1,4 @@
-<!-- array_unique — Removes duplicate values from an array -->
+array_unique — Removes duplicate values from an array
 <?php
 // array_unique
 echo '<pre>';

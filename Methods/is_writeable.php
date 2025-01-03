@@ -1,3 +1,4 @@
+is_writeable — Alias of is_writable()
 <?php
 // is_writeable
 

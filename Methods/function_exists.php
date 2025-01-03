@@ -1,3 +1,4 @@
+function_exists — Return true if the given function has been defined
 <?php
 // function_exists
 function a() {

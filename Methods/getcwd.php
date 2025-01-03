@@ -1,3 +1,4 @@
+getcwd — Gets the current working directory
 <?php
 // getcwd
 $current_path = getcwd();

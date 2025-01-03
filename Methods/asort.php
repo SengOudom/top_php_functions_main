@@ -1,4 +1,6 @@
+asort — Sort an array in ascending order and maintain index association
 <?php
+echo '<pre>';
 // asort
 
 $fruits = [

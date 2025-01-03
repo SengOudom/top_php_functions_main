@@ -1,4 +1,4 @@
-<!-- array_unshift — Prepend one or more elements to the beginning of an array -->
+array_unshift — Prepend one or more elements to the beginning of an array
 <?php
 echo '<pre>';
 // array_unshift
