@@ -1,12 +1,14 @@
+sprintf — Return a formatted string
 <?php
+echo '<pre>';
 // sprintf
 // %d
 // %s
 // %f
-$str = sprintf("%s %s", "Hello", "World");
+$str = sprintf("%s  %s", "Hello", "World");
 var_dump($str);
 
-$str = sprintf("%s<---->%s", "Hello", "World");
+$str = sprintf("%s here %s", "Hello", "World");
 var_dump($str);
 
 $str = sprintf("hi, there, it's me? HOW ARE YOU?\n%s (%d)", "Hello", 100);

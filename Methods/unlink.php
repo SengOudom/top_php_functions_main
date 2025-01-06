@@ -1,7 +1,8 @@
+unlink — Deletes a file
 <?php
 // unlink
-$path = "c:\\test.txt";
+$path = "../is_resource.php";
 var_dump(unlink($path));
 
-$path = "test.txt";
+$path = "music.mp3";
 var_dump(unlink($path));

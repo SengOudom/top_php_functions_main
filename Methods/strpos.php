@@ -1,9 +1,14 @@
+strpos — Find the position of the first occurrence of a substring in a string
 <?php
+echo '<pre>';
 // strpos
 $str = "Hello World o o o o  o";
-var_dump(strpos($str, "o"));
-var_dump(strpos($str, "o", 4));
-var_dump(strpos($str, "o", 4+1));
+print_r(strpos($str, "o"));
+echo "\n";
+print_r(strpos($str, "o", 4));
+echo "\n";
+print_r(strpos($str, "o", 4+1));
+echo "\n";
 
 $looking_for = "o";
 $offset = 0;

@@ -1,3 +1,4 @@
+next — Advance the internal pointer of an array
 <?php
 // next
 $numbers = [

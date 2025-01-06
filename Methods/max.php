@@ -1,3 +1,4 @@
+max — Find highest value
 <?php
 // max
 

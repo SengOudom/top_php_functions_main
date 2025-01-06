@@ -1,4 +1,5 @@
 <?php
+echo '<pre>';
 // strtr
 $str = "Hello World!";
 print strlen($str) . "\n";

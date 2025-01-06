@@ -1,4 +1,6 @@
+microtime — Return current Unix timestamp with microseconds
 <?php
+echo '<pre>';
 // microtime
 
 // $time_start = microtime(true);

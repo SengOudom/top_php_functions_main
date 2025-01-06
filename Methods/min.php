@@ -1,3 +1,4 @@
+min — Find lowest value
 <?php
 // min
 

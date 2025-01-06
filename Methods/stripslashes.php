@@ -1,3 +1,4 @@
+stripslashes — Un-quotes a quoted string
 <?php
 // stripslashes
 

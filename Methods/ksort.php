@@ -1,4 +1,6 @@
+ksort — Sort an array by key in ascending order
 <?php
+echo '<pre>';
 // ksort
 
 $fruits = [

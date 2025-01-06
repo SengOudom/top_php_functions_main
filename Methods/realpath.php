@@ -1,3 +1,4 @@
+realpath — Returns canonicalized absolute pathname
 <?php
 // realpath
 $path = "";

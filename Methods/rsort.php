@@ -1,4 +1,6 @@
+rsort — Sort an array in descending order
 <?php
+echo '<pre>';
 // rsort
 
 $fruits = [

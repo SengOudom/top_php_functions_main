@@ -1,3 +1,4 @@
+prev — Rewind the internal array pointer
 <?php
 // prev
 $numbers = [

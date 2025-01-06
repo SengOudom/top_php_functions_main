@@ -1,6 +1,8 @@
+str_repeat — Repeat a string
 <?php
+echo '<pre>';
 $str = str_repeat("Hello World!\n", 10);
-echo $str;
+echo $str."\n";
 
 $str = rtrim(str_repeat("Hello World!\n", 10), "\n");
 echo $str;

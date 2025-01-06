@@ -1,3 +1,4 @@
+substr — Return part of a string
 <?php
 // substr
 $string = "abcdefghijklmnopqrstuvwxyz";

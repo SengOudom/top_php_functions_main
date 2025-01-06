@@ -1,4 +1,6 @@
+sort — Sort an array in ascending order
 <?php
+echo '<pre>';
 // sort
 $numbers = [];
 $howmany = 20;

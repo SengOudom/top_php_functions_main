@@ -1,3 +1,4 @@
+mkdir — Makes directory
 <?php
 // mkdir
 mkdir("test");

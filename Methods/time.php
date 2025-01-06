@@ -1,3 +1,4 @@
+time — Return current Unix timestamp
 <?php
 // time
 

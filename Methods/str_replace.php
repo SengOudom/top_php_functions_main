@@ -1,4 +1,6 @@
+str_replace — Replace all occurrences of the search string with the replacement string
 <?php
+echo '<pre>';
 var_dump(str_replace("hi", "hey", "hi there, hi you, hi everyone"));
 
 var_dump(str_replace("hi", "hey", "hi there, hi you, hi everyone", $arr["count"]));

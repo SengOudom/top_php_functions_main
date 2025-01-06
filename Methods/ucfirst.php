@@ -1,3 +1,4 @@
+ucfirst — Make a string's first character uppercase
 <?php
 // ucfirst
 

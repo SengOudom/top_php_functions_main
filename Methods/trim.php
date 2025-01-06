@@ -1,4 +1,6 @@
+trim — Strip whitespace (or other characters) from the beginning and end of a string
 <?php
+echo '<pre>';
 // trim
 $string = "  abcdefghijklmnopqrstuvwxyz  ";
 var_dump(trim($string));
