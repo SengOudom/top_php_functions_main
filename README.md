@@ -2,7 +2,7 @@
 
 If you are a PHP developer, you must know the Top 100 PHP Functions deeply.
 
-## The 100 PHP functions that you have to know (2022)
+## The 100 PHP functions that you have to know (2025)
 
 Here is the top 100 PHP functions: it is the list of the most often used PHP native functions.
 
